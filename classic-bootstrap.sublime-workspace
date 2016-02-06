@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 861,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project.TODO",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pacon",
+		"selected_items":
+		[
+			[
+				"pacon",
+				"Package Control: List Packages"
+			],
+			[
+				"pc",
+				"Package Control: Enable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"syntxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimelinter ena",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"keybindinguser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"inspac",
+				"Package Control: Install Package"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key bid",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"taks new",
+				"Tasks: New document"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"setting ",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"project edit",
+				"Project: Edit"
+			],
+			[
+				"packate",
+				"Package Control: List Packages"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"inspack",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntx blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Development/WebRoot/classicbootstrap",
+		"/D/Development/WebRoot/classicbootstrap/boilerplate",
+		"/D/Development/WebRoot/classicbootstrap/boilerplate/test"
+	],
+	"file_history":
+	[
+		"/D/Development/WebRoot/classicbootstrap/sample.php",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Development/WebRoot/classicbootstrap/project.TODO",
+		"/D/Development/WebRoot/classicbootstrap/index.html",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Builds/PHP-Lint.sublime-build",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Development/WebRoot/classicbootstrap/src/css/classic-bootstrap.scss",
+		"/D/Development/WebRoot/classicbootstrap/build/index.html",
+		"/D/Development/WebRoot/classicbootstrap/CHANGELOG.md",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/Development/WebRoot/classicbootstrap/project_archive.TODO",
+		"/c/users/bambang.as/appdata/local/temp/index.html",
+		"/c/users/bambang.as/appdata/local/temp/gistfile1.txt",
+		"/D/Development/WebRoot/classicbootstrap/boilerplate/dist/index.html",
+		"/D/Development/WebRoot/classicbootstrap/classic-bootstrap.sublime-project",
+		"/D/Development/WebRoot/classicbootstrap/classic-bootstrap.scss",
+		"/c/users/bambang.as/appdata/local/temp/ArrayHelper.php",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Gist/Default (Windows).sublime-keymap",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/D/Development/WebRoot/classicbootstrap/test.php",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/bambang.as/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/Development/WebRoot/classicbootstrap/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+alt+left",
+			"ctrl+shift+left",
+			"(?<=<p>).+(?=</p>)",
+			"<p>.+</p>",
+			"<p>Hello World! This Is Html5 Boilerplate.</p>",
+			"meta",
+			">\n",
+			"name",
+			"sidebar",
+			"ctrl+alt+b",
+			"ctrl+shift+b",
+			"ctrl+shift+alt+b",
+			"ctrl+shift+b",
+			"sidebar",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"transition: all 1s;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": 12,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project.TODO",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1180,
+								1180
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": 28,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 61.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/User/Builds/PHP-Lint.sublime-build",
+	"project": "classic-bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"samplephp",
+				"sample.php"
+			],
+			[
+				"sample",
+				"sample.php"
+			],
+			[
+				"sentmailphp",
+				"app\\Models\\SentMail.php"
+			],
+			[
+				"resources/.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"dss/campaign/.bladephp",
+				"resources\\views\\admin\\partials\\contents\\mail\\campaign\\detail.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Development\\WebRoot\\classicbootstrap\\classic-bootstrap.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

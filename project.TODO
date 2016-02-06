@@ -1,0 +1,39 @@
+Classic Bootstrap:
+  This project aims it to make the classic responsive theme that required to build back-end system.
+
+  Task List:
+
+    Setup Environment:
+      ✔ Install Sublime Text 3 @today @done (16-02-01 02:41)
+      ✔ Configure the sublime @today @done (16-02-01 18:34)
+          ✔ Install required packages @today @done (16-02-01 02:43)
+              ✔ Emmet, DocBlockr, Less, Linter, etc @today @done (16-02-01 02:43)
+      ✔ learn Sublime Text 3 work-flow @critical @today @done (16-02-01 18:34)
+      ✔ System Environment setup. @today @done (16-02-01 18:34)
+
+    Development phase:
+      This is the development **stage** that describes all the *phase* for this project.
+
+      ☐ Make boilerplate HTML 5 page for testing purpose @tomorrow @due(2016-01-02 15:00)
+      ☐ Setup normalize @high
+      ☐ Setup responsive @high
+      ☐ Create the theme style per category @high
+      ☐ Create available gist if any @low
+
+    Deployment:
+      ☐ Make distribution package @high
+      ☐ Testing with javascript @high
+
+    Publish and Track Via Git:
+      ✔ Setup github token for sublime @today @done (16-02-01 02:49)
+      ☐ Update project via git (push, pull, merge) @high
+      ☐ Add new collaborator @low
+
+
+
+--- ✄ -----------------------
+Notes:
+
+
+--- ✄ -----------------------
+Files Description:
